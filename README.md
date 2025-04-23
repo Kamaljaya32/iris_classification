@@ -10,7 +10,9 @@ Tujuan utama adalah membandingkan kinerja ketiga model tersebut dalam memprediks
 
 # Ringkasan Hasil
 
-Model | CV Accuracy | Test Accuracy | Keterangan
-Logistic Regression | 95.2% | 97.8% | 1 kesalahan pada kelas Versicolor
-SVM | 94.4% | 100% | Margin-based, stabil
-AdaBoost | 95–96% | 100% | Ensemble boosting, stabil dan cepat
+| Model               | CV Accuracy | Test Accuracy | Keterangan                             |
+|---------------------|-------------|---------------|----------------------------------------|
+| Logistic Regression | 95.2%       | 97.8%         | 1 kesalahan pada kelas Versicolor      |
+| SVM                 | 94.4%       | 100%          | Margin-based, stabil                   |
+| AdaBoost            | 95–96%      | 100%          | Ensemble boosting, stabil dan cepat    |
+
